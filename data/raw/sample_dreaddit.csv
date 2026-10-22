@@ -1,0 +1,1501 @@
+id,text,label,split
+dreaddit_sample_1116,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1368,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_422,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_413,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_451,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_861,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1063,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_741,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1272,"hard to focus today, my mind keeps wandering to everything I need to do",1,test
+dreaddit_sample_259,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_888,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1432,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_712,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1382,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_70,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1268,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_1491,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_607,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_433,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_51,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1199,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1128,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1190,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1249,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_1419,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_432,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1452,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_1470,watched a great movie last night with some friends,0,test
+dreaddit_sample_1234,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_1281,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_1085,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_610,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1284,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_1041,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_220,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_339,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_423,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_428,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1105,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_76,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1391,"been feeling pretty low energy, not sure why",1,test
+dreaddit_sample_439,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1336,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_864,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1080,barely eating properly with all this exam stress,1,train
+dreaddit_sample_354,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_365,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_309,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_736,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_998,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_621,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_543,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1140,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1296,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_554,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_679,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_49,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_490,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_316,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_904,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_636,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_560,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_486,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_67,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_811,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_493,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_310,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1096,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1247,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_184,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_306,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_852,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_792,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_289,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_706,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1329,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_654,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_522,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_461,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_930,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1034,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_29,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_240,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_798,watched a great movie last night with some friends,0,train
+dreaddit_sample_817,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_65,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_601,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_924,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_754,watched a great movie last night with some friends,0,train
+dreaddit_sample_926,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1101,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_247,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_277,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1402,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_1066,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_479,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_426,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_123,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1169,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_394,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_985,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_715,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1134,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1084,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_497,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_44,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_59,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1161,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_23,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_874,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_481,stressed about bills again this month,1,train
+dreaddit_sample_1324,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_745,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_231,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_124,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_427,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_818,stressed about bills again this month,1,train
+dreaddit_sample_168,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_115,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1088,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_986,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1395,"so much anxiety about finals, feel like I haven't prepared enough",1,test
+dreaddit_sample_1424,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_415,stressed about bills again this month,1,train
+dreaddit_sample_141,watched a great movie last night with some friends,0,train
+dreaddit_sample_1233,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1293,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_762,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1206,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_462,stressed about bills again this month,1,train
+dreaddit_sample_1243,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_78,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1004,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1490,"so tired lately, haven't been sleeping well this week",1,test
+dreaddit_sample_571,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_15,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_494,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_350,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_999,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_274,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1191,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_271,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1473,stressed about bills again this month,1,test
+dreaddit_sample_237,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_585,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1312,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_694,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1001,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_322,barely eating properly with all this exam stress,1,train
+dreaddit_sample_782,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1358,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1203,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_970,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1466,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_526,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1425,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_1170,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_175,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_358,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_43,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_416,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_344,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1026,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1401,barely eating properly with all this exam stress,1,test
+dreaddit_sample_101,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_107,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1489,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_1052,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_964,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_380,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_244,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1099,watched a great movie last night with some friends,0,train
+dreaddit_sample_500,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_700,watched a great movie last night with some friends,0,train
+dreaddit_sample_128,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_239,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1114,barely eating properly with all this exam stress,1,train
+dreaddit_sample_682,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_482,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1305,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_275,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_582,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_203,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_32,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1319,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_813,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_997,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_381,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1073,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1348,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_578,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_887,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1325,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_1326,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_941,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_163,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_909,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_297,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_755,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_405,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_968,watched a great movie last night with some friends,0,train
+dreaddit_sample_605,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_420,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_464,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1187,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_939,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_192,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_674,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_351,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_858,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_63,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1173,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_765,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1440,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_261,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_342,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1220,everyone around me seems just as burnt out with exam season,1,test
+dreaddit_sample_471,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1334,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_198,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1231,stressed about bills again this month,1,test
+dreaddit_sample_917,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_743,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_570,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_218,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_453,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_30,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_56,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1210,watched a great movie last night with some friends,0,test
+dreaddit_sample_1385,"so much anxiety about finals, feel like I haven't prepared enough",1,test
+dreaddit_sample_1065,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_430,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_724,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1144,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1005,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1050,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1345,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_1236,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_1235,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_1448,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_620,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1067,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_838,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_99,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_532,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_528,watched a great movie last night with some friends,0,train
+dreaddit_sample_1346,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_1172,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1178,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_629,stressed about bills again this month,1,train
+dreaddit_sample_1027,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_270,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1341,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_626,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1042,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_976,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_371,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_588,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_967,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1165,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1146,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_236,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_596,watched a great movie last night with some friends,0,train
+dreaddit_sample_962,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1445,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1163,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_590,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_208,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1074,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_899,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_353,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_58,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_303,watched a great movie last night with some friends,0,train
+dreaddit_sample_1447,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_843,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1261,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1430,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_1209,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_367,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1357,"so tired lately, haven't been sleeping well this week",1,test
+dreaddit_sample_1197,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1304,keep overthinking small things and it's exhausting,1,test
+dreaddit_sample_1232,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_704,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_233,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_618,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_196,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1259,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_81,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1404,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_597,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1156,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_111,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1276,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_780,stressed about bills again this month,1,train
+dreaddit_sample_983,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_799,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1265,watched a great movie last night with some friends,0,test
+dreaddit_sample_1150,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_824,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_382,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_538,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1493,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_1112,watched a great movie last night with some friends,0,train
+dreaddit_sample_324,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_361,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1487,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_1029,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_707,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_332,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_429,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1242,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_425,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_628,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1111,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_677,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_693,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_757,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_254,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1094,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_916,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1185,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_668,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_841,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_806,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1456,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_86,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1421,stressed about bills again this month,1,test
+dreaddit_sample_265,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_287,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1483,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_892,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1495,"been feeling pretty low energy, not sure why",1,test
+dreaddit_sample_978,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_534,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1000,watched a great movie last night with some friends,0,train
+dreaddit_sample_221,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_113,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_672,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_583,barely eating properly with all this exam stress,1,train
+dreaddit_sample_174,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_535,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1078,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1176,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1106,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_982,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_285,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_867,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_374,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1196,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_31,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_551,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_210,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1046,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_923,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_809,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_617,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_932,barely eating properly with all this exam stress,1,train
+dreaddit_sample_619,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_188,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_710,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_936,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1168,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1219,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_1097,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_901,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_83,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_701,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_48,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1283,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_155,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1151,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1141,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_974,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1057,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_807,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1229,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_1480,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_1436,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_179,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1355,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_1246,stressed about bills again this month,1,test
+dreaddit_sample_1040,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_949,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_816,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_363,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1177,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1198,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_346,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1010,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_614,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_965,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1273,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_589,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1288,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_631,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_243,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1374,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1451,watched a great movie last night with some friends,0,test
+dreaddit_sample_764,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_987,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_411,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1420,"been feeling pretty low energy, not sure why",1,test
+dreaddit_sample_1225,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_308,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_881,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_398,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_370,watched a great movie last night with some friends,0,train
+dreaddit_sample_54,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1338,barely eating properly with all this exam stress,1,test
+dreaddit_sample_1182,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_312,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_921,stressed about bills again this month,1,train
+dreaddit_sample_109,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_718,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_691,barely eating properly with all this exam stress,1,train
+dreaddit_sample_100,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1125,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_669,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1375,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_266,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_678,barely eating properly with all this exam stress,1,train
+dreaddit_sample_296,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_529,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_944,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1013,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_950,watched a great movie last night with some friends,0,train
+dreaddit_sample_377,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_286,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1438,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_730,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_126,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_327,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_292,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_548,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_727,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_908,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_355,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_170,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_966,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1133,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_651,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_209,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1397,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_140,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1083,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_990,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_650,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1188,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1498,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_485,watched a great movie last night with some friends,0,train
+dreaddit_sample_527,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_199,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_889,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_844,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1068,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1205,watched a great movie last night with some friends,0,test
+dreaddit_sample_1054,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_10,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_147,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_721,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_282,barely eating properly with all this exam stress,1,train
+dreaddit_sample_298,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_613,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_291,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_649,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_598,watched a great movie last night with some friends,0,train
+dreaddit_sample_1043,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_552,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1298,stressed about bills again this month,1,test
+dreaddit_sample_129,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1061,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_331,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_323,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_680,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_478,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_561,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_135,stressed about bills again this month,1,train
+dreaddit_sample_506,barely eating properly with all this exam stress,1,train
+dreaddit_sample_513,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1371,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_435,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_873,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1462,watched a great movie last night with some friends,0,test
+dreaddit_sample_752,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_665,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_158,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1253,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1292,canceled plans again because I just didn't have it in me to go out,1,test
+dreaddit_sample_575,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_352,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_937,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1295,everyone around me seems just as burnt out with exam season,1,test
+dreaddit_sample_1392,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_1300,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_591,barely eating properly with all this exam stress,1,train
+dreaddit_sample_664,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_195,watched a great movie last night with some friends,0,train
+dreaddit_sample_1240,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_1048,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_438,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1435,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_643,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_96,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_584,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1214,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_156,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_419,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_410,stressed about bills again this month,1,train
+dreaddit_sample_1222,keep overthinking small things and it's exhausting,1,test
+dreaddit_sample_477,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_514,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1285,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1453,barely eating properly with all this exam stress,1,test
+dreaddit_sample_1118,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_447,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_178,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_390,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1289,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_1307,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_1366,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1047,watched a great movie last night with some friends,0,train
+dreaddit_sample_1142,barely eating properly with all this exam stress,1,train
+dreaddit_sample_634,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_865,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_787,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_744,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_859,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_294,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_544,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1362,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_88,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1031,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1379,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_576,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_906,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1387,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_1091,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_943,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_290,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1418,everyone around me seems just as burnt out with exam season,1,test
+dreaddit_sample_1018,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_348,barely eating properly with all this exam stress,1,train
+dreaddit_sample_567,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1412,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_1058,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_599,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_458,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_375,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_333,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_756,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1323,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_711,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1389,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_566,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_328,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_318,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1302,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_952,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_12,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_171,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_260,barely eating properly with all this exam stress,1,train
+dreaddit_sample_819,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1494,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_796,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_138,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_549,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_615,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_845,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_777,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_558,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_139,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1309,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_1023,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_224,watched a great movie last night with some friends,0,train
+dreaddit_sample_963,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_409,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_325,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_299,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_993,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1032,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_670,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1479,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_946,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1269,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_573,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_503,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1037,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_3,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1468,barely eating properly with all this exam stress,1,test
+dreaddit_sample_467,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_321,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_5,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_973,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_547,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1476,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_39,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_542,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_242,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_136,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_602,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_772,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_846,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1090,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1365,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_581,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1474,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_788,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1388,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_376,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_314,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_442,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_319,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1478,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_793,watched a great movie last night with some friends,0,train
+dreaddit_sample_1132,watched a great movie last night with some friends,0,train
+dreaddit_sample_424,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_553,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_594,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_893,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1481,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_1217,"so tired lately, haven't been sleeping well this week",1,test
+dreaddit_sample_1164,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_227,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_714,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_810,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_979,watched a great movie last night with some friends,0,train
+dreaddit_sample_1075,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_66,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_393,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_579,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_989,watched a great movie last night with some friends,0,train
+dreaddit_sample_211,stressed about bills again this month,1,train
+dreaddit_sample_1159,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_781,barely eating properly with all this exam stress,1,train
+dreaddit_sample_536,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_774,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_661,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_85,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1349,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_1216,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_915,barely eating properly with all this exam stress,1,train
+dreaddit_sample_660,watched a great movie last night with some friends,0,train
+dreaddit_sample_1350,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_630,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1033,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1399,watched a great movie last night with some friends,0,test
+dreaddit_sample_1092,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_273,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_722,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_362,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_622,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_2,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_6,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_311,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1167,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_938,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1477,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_215,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1320,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_27,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1465,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_1024,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_785,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_638,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_829,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_826,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_624,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_849,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_256,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_25,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_336,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_572,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_47,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_106,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_349,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_55,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_808,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_213,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_120,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_869,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_855,stressed about bills again this month,1,train
+dreaddit_sample_72,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1380,barely eating properly with all this exam stress,1,test
+dreaddit_sample_720,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_45,watched a great movie last night with some friends,0,train
+dreaddit_sample_1263,watched a great movie last night with some friends,0,test
+dreaddit_sample_523,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_868,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1107,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1274,barely eating properly with all this exam stress,1,test
+dreaddit_sample_802,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_533,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1137,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_603,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_465,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1202,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_1277,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_1443,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_988,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_60,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_885,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_92,barely eating properly with all this exam stress,1,train
+dreaddit_sample_666,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_705,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_194,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_280,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_695,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_359,barely eating properly with all this exam stress,1,train
+dreaddit_sample_519,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_812,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_767,watched a great movie last night with some friends,0,train
+dreaddit_sample_182,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1486,"so tired lately, haven't been sleeping well this week",1,test
+dreaddit_sample_110,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_42,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1006,watched a great movie last night with some friends,0,train
+dreaddit_sample_204,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_820,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_52,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_545,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1131,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1157,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1467,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_910,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_183,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_137,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1149,barely eating properly with all this exam stress,1,train
+dreaddit_sample_80,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1212,"hard to focus today, my mind keeps wandering to everything I need to do",1,test
+dreaddit_sample_105,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_541,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1313,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_480,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_165,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_248,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_307,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_446,watched a great movie last night with some friends,0,train
+dreaddit_sample_746,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_334,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_97,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_759,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_737,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_836,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_942,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_102,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_434,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_74,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1340,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_1124,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1359,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_302,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1262,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1223,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_733,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_388,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_235,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1245,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_267,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_305,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_117,watched a great movie last night with some friends,0,train
+dreaddit_sample_1211,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_673,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_249,stressed about bills again this month,1,train
+dreaddit_sample_1093,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1079,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_71,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_94,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_847,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_33,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1100,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_448,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_445,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_771,barely eating properly with all this exam stress,1,train
+dreaddit_sample_716,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_886,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1244,watched a great movie last night with some friends,0,test
+dreaddit_sample_900,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1035,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_77,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_84,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_834,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_82,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_457,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_918,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_676,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_984,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1239,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_436,barely eating properly with all this exam stress,1,train
+dreaddit_sample_770,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_644,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1119,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_905,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1193,barely eating properly with all this exam stress,1,train
+dreaddit_sample_404,stressed about bills again this month,1,train
+dreaddit_sample_1303,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_933,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1485,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_104,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_609,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1455,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_688,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_948,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_931,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_62,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_281,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_778,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1393,stressed about bills again this month,1,test
+dreaddit_sample_238,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_223,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_145,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1398,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_373,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1228,"everything feels like a lot right now, just trying to get through the week",1,test
+dreaddit_sample_118,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1166,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_250,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1444,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_1022,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_9,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_449,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_882,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_708,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_255,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_593,stressed about bills again this month,1,train
+dreaddit_sample_389,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1087,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1200,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_557,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1287,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_839,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_460,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_723,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1381,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_144,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_501,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1098,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_739,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1384,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_731,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_539,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_177,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1446,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_697,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_940,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1049,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_922,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_898,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1492,watched a great movie last night with some friends,0,test
+dreaddit_sample_7,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_862,watched a great movie last night with some friends,0,train
+dreaddit_sample_667,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1160,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_357,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_783,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_735,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_329,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1055,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1148,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1117,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_258,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1175,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_372,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1103,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_925,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_142,watched a great movie last night with some friends,0,train
+dreaddit_sample_525,watched a great movie last night with some friends,0,train
+dreaddit_sample_1138,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1007,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1121,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1423,canceled plans again because I just didn't have it in me to go out,1,test
+dreaddit_sample_440,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_531,stressed about bills again this month,1,train
+dreaddit_sample_1201,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_226,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1036,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_228,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1279,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_1449,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_212,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_79,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_148,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_814,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_903,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_958,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_671,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1155,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_555,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_907,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_133,watched a great movie last night with some friends,0,train
+dreaddit_sample_1108,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_823,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_408,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_368,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_507,watched a great movie last night with some friends,0,train
+dreaddit_sample_1181,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_504,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1488,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_347,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_386,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_0,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_360,watched a great movie last night with some friends,0,train
+dreaddit_sample_894,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_828,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1415,keep overthinking small things and it's exhausting,1,test
+dreaddit_sample_475,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1280,"hard to focus today, my mind keeps wandering to everything I need to do",1,test
+dreaddit_sample_57,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_637,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1330,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_1053,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1370,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_172,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_450,barely eating properly with all this exam stress,1,train
+dreaddit_sample_125,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1179,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_530,barely eating properly with all this exam stress,1,train
+dreaddit_sample_857,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_713,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_90,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_1450,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_181,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_875,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1030,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_786,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_414,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_251,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_69,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_803,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_131,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_300,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1429,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_326,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1464,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1113,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_499,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1377,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_832,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_364,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_495,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1394,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_338,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_421,barely eating properly with all this exam stress,1,train
+dreaddit_sample_164,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_28,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_516,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_193,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1327,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1361,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_945,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1360,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_169,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_167,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_652,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_173,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_518,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1213,the workload keeps piling up and I feel like I'm falling behind,1,test
+dreaddit_sample_1400,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_912,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_491,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_953,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_73,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1252,"pulled another all nighter studying, running on fumes at this point",1,test
+dreaddit_sample_587,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_750,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_657,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_842,barely eating properly with all this exam stress,1,train
+dreaddit_sample_234,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_732,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_214,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_162,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_132,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1311,watched a great movie last night with some friends,0,test
+dreaddit_sample_222,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1227,"so tired lately, haven't been sleeping well this week",1,test
+dreaddit_sample_934,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_185,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_41,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_692,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_108,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_38,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_568,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_994,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1342,"everything feels like a lot right now, just trying to get through the week",1,test
+dreaddit_sample_1441,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_483,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_468,watched a great movie last night with some friends,0,train
+dreaddit_sample_890,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_947,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_24,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1009,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1192,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_68,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_884,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1354,watched a great movie last night with some friends,0,test
+dreaddit_sample_366,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_505,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_850,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1315,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_383,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_734,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_717,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1335,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_454,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_264,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_75,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_914,barely eating properly with all this exam stress,1,train
+dreaddit_sample_232,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_444,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_395,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_611,stressed about bills again this month,1,train
+dreaddit_sample_176,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_18,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1310,watched a great movie last night with some friends,0,test
+dreaddit_sample_1221,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_341,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1347,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_879,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_595,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_61,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1260,"everything feels like a lot right now, just trying to get through the week",1,test
+dreaddit_sample_272,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1208,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_872,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1120,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1406,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_278,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_36,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_662,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1351,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_1089,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_977,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_738,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_191,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_919,watched a great movie last night with some friends,0,train
+dreaddit_sample_456,barely eating properly with all this exam stress,1,train
+dreaddit_sample_675,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_760,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1352,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_728,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_412,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_825,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_616,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_114,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_417,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1428,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_969,watched a great movie last night with some friends,0,train
+dreaddit_sample_604,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1434,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_89,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_848,watched a great movie last night with some friends,0,train
+dreaddit_sample_1145,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1433,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_753,watched a great movie last night with some friends,0,train
+dreaddit_sample_498,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_11,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_396,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_284,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_690,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1230,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1403,watched a great movie last night with some friends,0,test
+dreaddit_sample_689,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_851,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_159,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_895,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1189,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_257,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_335,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1407,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_1039,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_515,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1015,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_768,watched a great movie last night with some friends,0,train
+dreaddit_sample_1316,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_761,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1102,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_521,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_22,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_356,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1271,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_340,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_431,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_473,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_217,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_911,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1204,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1011,stressed about bills again this month,1,train
+dreaddit_sample_1458,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_93,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1008,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1070,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_696,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_996,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_153,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1299,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_1497,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_789,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_580,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_703,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1258,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_487,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_559,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_801,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_512,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_633,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1110,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1471,"been feeling pretty low energy, not sure why",1,test
+dreaddit_sample_790,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_116,stressed about bills again this month,1,train
+dreaddit_sample_740,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1081,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_830,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_119,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_656,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_635,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_369,watched a great movie last night with some friends,0,train
+dreaddit_sample_268,stressed about bills again this month,1,train
+dreaddit_sample_655,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_935,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_822,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_866,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_46,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1290,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_991,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_876,barely eating properly with all this exam stress,1,train
+dreaddit_sample_773,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1499,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_4,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1003,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1301,stressed about bills again this month,1,test
+dreaddit_sample_263,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1333,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_1442,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_443,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1002,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1077,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_837,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1339,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_304,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1174,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_313,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_149,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_574,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_50,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1414,watched a great movie last night with some friends,0,test
+dreaddit_sample_726,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_833,stressed about bills again this month,1,train
+dreaddit_sample_1115,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_470,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_971,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_653,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_399,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_511,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_320,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_19,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_684,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_35,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_902,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_827,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1344,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_407,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_920,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_537,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_758,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1062,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_245,watched a great movie last night with some friends,0,train
+dreaddit_sample_1127,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_784,watched a great movie last night with some friends,0,train
+dreaddit_sample_489,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_154,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_961,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_853,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_625,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_685,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_569,watched a great movie last night with some friends,0,train
+dreaddit_sample_1426,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_17,barely eating properly with all this exam stress,1,train
+dreaddit_sample_127,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_927,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_980,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1469,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_190,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1139,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_992,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1463,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_1251,"hard to focus today, my mind keeps wandering to everything I need to do",1,test
+dreaddit_sample_606,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_180,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_301,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_496,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1314,barely eating properly with all this exam stress,1,test
+dreaddit_sample_1255,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1237,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_517,watched a great movie last night with some friends,0,train
+dreaddit_sample_1069,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_476,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_157,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1195,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_16,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1072,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_546,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_658,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1226,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_1019,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1318,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_959,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1409,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_283,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_797,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_225,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_26,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_437,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1457,stressed about bills again this month,1,test
+dreaddit_sample_229,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_37,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_749,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1045,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_469,stressed about bills again this month,1,train
+dreaddit_sample_1278,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_1472,"everything feels like a lot right now, just trying to get through the week",1,test
+dreaddit_sample_687,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1378,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_639,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1416,watched a great movie last night with some friends,0,test
+dreaddit_sample_1218,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_1158,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1250,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_1439,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_800,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_160,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_956,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1186,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_821,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1270,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_877,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_913,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_152,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1373,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_509,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1135,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1321,keep overthinking small things and it's exhausting,1,test
+dreaddit_sample_103,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_586,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1328,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_1143,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_53,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_151,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_403,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1454,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_207,watched a great movie last night with some friends,0,train
+dreaddit_sample_1417,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1122,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_8,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1014,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_1343,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_1060,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_452,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_253,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_896,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1308,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_880,watched a great movie last night with some friends,0,train
+dreaddit_sample_1427,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_623,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_345,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1286,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_262,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_150,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_472,watched a great movie last night with some friends,0,train
+dreaddit_sample_640,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1484,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_1410,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_550,barely eating properly with all this exam stress,1,train
+dreaddit_sample_928,barely eating properly with all this exam stress,1,train
+dreaddit_sample_488,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1356,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_1171,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_146,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_402,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_954,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1405,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_659,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_463,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_186,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1147,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1224,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_608,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_143,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_751,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_981,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_197,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_883,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_279,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_293,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_1364,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_400,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_122,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1207,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_202,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_835,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_246,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1422,can't stop thinking about how many exams I still have left this week,1,test
+dreaddit_sample_1408,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_1153,watched a great movie last night with some friends,0,train
+dreaddit_sample_384,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_1322,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_854,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_219,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_641,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_112,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_698,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1431,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_951,stressed about bills again this month,1,train
+dreaddit_sample_1317,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_1291,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_1353,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_441,stressed about bills again this month,1,train
+dreaddit_sample_1136,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1256,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_663,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1372,exams start this week and I am so stressed I can barely sleep,1,test
+dreaddit_sample_1257,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_1331,"so much anxiety about finals, feel like I haven't prepared enough",1,test
+dreaddit_sample_317,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_648,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_709,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1282,"planted some herbs on the balcony, hoping they survive",0,test
+dreaddit_sample_972,stressed about bills again this month,1,train
+dreaddit_sample_627,barely eating properly with all this exam stress,1,train
+dreaddit_sample_632,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_1306,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_1248,barely eating properly with all this exam stress,1,test
+dreaddit_sample_1461,everyone around me seems just as burnt out with exam season,1,test
+dreaddit_sample_1254,stressed about bills again this month,1,test
+dreaddit_sample_1383,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_795,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_645,watched a great movie last night with some friends,0,train
+dreaddit_sample_1012,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_556,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_681,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_577,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1109,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1266,"been feeling pretty low energy, not sure why",1,test
+dreaddit_sample_1183,watched a great movie last night with some friends,0,train
+dreaddit_sample_524,watched a great movie last night with some friends,0,train
+dreaddit_sample_1059,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_540,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_1194,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_748,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1386,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_484,watched a great movie last night with some friends,0,train
+dreaddit_sample_95,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1020,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_563,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_1264,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_742,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_863,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_891,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1038,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_206,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_392,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_794,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_870,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_397,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_766,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_1376,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_1241,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_1028,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_642,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_612,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_960,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_725,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_683,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_98,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_804,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_406,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_502,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1071,watched a great movie last night with some friends,0,train
+dreaddit_sample_1056,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_929,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_779,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_200,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_134,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_1051,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_40,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1017,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_230,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_378,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_288,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_418,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_391,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_592,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1162,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1086,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_647,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_1152,stressed about bills again this month,1,train
+dreaddit_sample_1367,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_520,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_64,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_14,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1180,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_1064,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_492,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_379,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_187,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_763,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_216,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_791,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1076,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_878,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_337,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_719,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_295,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1016,exams start this week and I am so stressed I can barely sleep,1,train
+dreaddit_sample_1275,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_455,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1496,cleaned up my apartment and it feels so much better now,0,test
+dreaddit_sample_815,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_269,"just feel kind of numb today, hard to explain",1,train
+dreaddit_sample_995,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_201,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_161,canceled plans again because I just didn't have it in me to go out,1,train
+dreaddit_sample_729,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_401,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_702,watched a great movie last night with some friends,0,train
+dreaddit_sample_1129,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_565,everyone around me seems just as burnt out with exam season,1,train
+dreaddit_sample_1413,haven't had much motivation to do anything the past few days,1,test
+dreaddit_sample_1021,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1025,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_1411,feeling kind of anxious about the presentation tomorrow,1,test
+dreaddit_sample_1104,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_205,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_34,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_775,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_508,"my team won the trivia night at the local pub, small win but I'll take it",0,train
+dreaddit_sample_1475,"so tired lately, haven't been sleeping well this week",1,test
+dreaddit_sample_1390,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_91,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1363,"my team won the trivia night at the local pub, small win but I'll take it",0,test
+dreaddit_sample_897,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_564,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1369,keep overthinking small things and it's exhausting,1,test
+dreaddit_sample_776,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_241,feeling kind of anxious about the presentation tomorrow,1,train
+dreaddit_sample_13,watched a great movie last night with some friends,0,train
+dreaddit_sample_315,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_600,"been feeling pretty low energy, not sure why",1,train
+dreaddit_sample_387,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1297,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,test
+dreaddit_sample_166,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_840,keep overthinking small things and it's exhausting,1,train
+dreaddit_sample_20,"started learning guitar, it's slow going but kind of fun",0,train
+dreaddit_sample_646,watched a great movie last night with some friends,0,train
+dreaddit_sample_1154,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_831,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1267,"work has been really overwhelming, not sure how I'll get through the deadline",1,test
+dreaddit_sample_562,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1460,"went for a long walk in the park, the weather was really nice today",0,test
+dreaddit_sample_686,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_957,barely eating properly with all this exam stress,1,train
+dreaddit_sample_189,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_975,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_699,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_510,stressed about bills again this month,1,train
+dreaddit_sample_1082,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_474,can't stop thinking about how many exams I still have left this week,1,train
+dreaddit_sample_856,"went for a long walk in the park, the weather was really nice today",0,train
+dreaddit_sample_747,barely eating properly with all this exam stress,1,train
+dreaddit_sample_252,"so tired lately, haven't been sleeping well this week",1,train
+dreaddit_sample_21,"pulled another all nighter studying, running on fumes at this point",1,train
+dreaddit_sample_1337,"started learning guitar, it's slow going but kind of fun",0,test
+dreaddit_sample_459,haven't had much motivation to do anything the past few days,1,train
+dreaddit_sample_1184,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_276,"everything feels like a lot right now, just trying to get through the week",1,train
+dreaddit_sample_955,"finally organized my bookshelf, very satisfying",0,train
+dreaddit_sample_1215,"just feel kind of numb today, hard to explain",1,test
+dreaddit_sample_385,"work has been really overwhelming, not sure how I'll get through the deadline",1,train
+dreaddit_sample_805,"hard to focus today, my mind keeps wandering to everything I need to do",1,train
+dreaddit_sample_1437,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_343,stressed about bills again this month,1,train
+dreaddit_sample_769,the workload keeps piling up and I feel like I'm falling behind,1,train
+dreaddit_sample_1332,"so much anxiety about finals, feel like I haven't prepared enough",1,test
+dreaddit_sample_130,cleaned up my apartment and it feels so much better now,0,train
+dreaddit_sample_871,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1123,"planted some herbs on the balcony, hoping they survive",0,train
+dreaddit_sample_1396,barely eating properly with all this exam stress,1,test
+dreaddit_sample_87,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1482,caught up with an old friend over coffee this morning,0,test
+dreaddit_sample_330,caught up with an old friend over coffee this morning,0,train
+dreaddit_sample_1238,"finally organized my bookshelf, very satisfying",0,test
+dreaddit_sample_466,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_121,watched a great movie last night with some friends,0,train
+dreaddit_sample_1044,"finished a new book this weekend, would recommend it to anyone who likes mystery novels",0,train
+dreaddit_sample_1095,barely eating properly with all this exam stress,1,train
+dreaddit_sample_1130,"so much anxiety about finals, feel like I haven't prepared enough",1,train
+dreaddit_sample_1294,tried a new recipe for dinner and it actually turned out great,0,test
+dreaddit_sample_860,tried a new recipe for dinner and it actually turned out great,0,train
+dreaddit_sample_1459,"everything feels like a lot right now, just trying to get through the week",1,test
+dreaddit_sample_1126,"finally organized my bookshelf, very satisfying",0,train

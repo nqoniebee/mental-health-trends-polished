@@ -1,0 +1,43 @@
+{
+  "metrics": {
+    "accuracy": 0.7622377622377622,
+    "precision": 0.7653333333333333,
+    "recall": 0.7777777777777778,
+    "f1": 0.771505376344086,
+    "roc_auc": 0.8499459561069599,
+    "baseline_accuracy": 0.5160839160839161,
+    "confusion_matrix": [
+      [
+        258,
+        88
+      ],
+      [
+        82,
+        287
+      ]
+    ]
+  },
+  "metadata": {
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "trained_at_utc": "2026-10-21T08:42:40.940391+00:00",
+    "sklearn_version": "1.8.0",
+    "method": "Frozen MiniLM + balanced logistic regression; C=1; threshold=0.5",
+    "data_audit": {
+      "raw_train": 2838,
+      "raw_test": 715,
+      "train_conflicting_texts": 3,
+      "train_invalid_or_duplicate_rows_removed": 21,
+      "test_conflicting_texts": 0,
+      "test_invalid_or_duplicate_rows_removed": 0,
+      "train_overlap_rows_removed": 3,
+      "clean_train": 2814,
+      "clean_test": 715,
+      "sha256": {
+        "dreaddit-train.csv": "4e791e60d3f04dd9f14abb1228b0d4f92bf628cc84097c1c173401e98d355f4e",
+        "dreaddit-test.csv": "a3b6c9bf5d685f49d57e05d24266dddc52999843256b13e65c07267c543175fe"
+      }
+    },
+    "seed": 42,
+    "clinical_validation": false
+  }
+}

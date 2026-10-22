@@ -1,0 +1,15 @@
+{
+  "raw_train": 2838,
+  "raw_test": 715,
+  "train_conflicting_texts": 3,
+  "train_invalid_or_duplicate_rows_removed": 21,
+  "test_conflicting_texts": 0,
+  "test_invalid_or_duplicate_rows_removed": 0,
+  "train_overlap_rows_removed": 3,
+  "clean_train": 2814,
+  "clean_test": 715,
+  "sha256": {
+    "dreaddit-train.csv": "4e791e60d3f04dd9f14abb1228b0d4f92bf628cc84097c1c173401e98d355f4e",
+    "dreaddit-test.csv": "a3b6c9bf5d685f49d57e05d24266dddc52999843256b13e65c07267c543175fe"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "real_inference_rows": 28,
+  "sentiment_labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "emotion_labels": [
+    "anger",
+    "fear",
+    "joy",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "keywords_returned": 15,
+  "topic_assignments": 28,
+  "topic_count_excluding_outliers": 2,
+  "trend_periods": 132,
+  "classifier_metrics": {
+    "accuracy": 0.7622377622377622,
+    "precision": 0.7653333333333333,
+    "recall": 0.7777777777777778,
+    "f1": 0.771505376344086,
+    "roc_auc": 0.8499459561069599,
+    "baseline_accuracy": 0.5160839160839161,
+    "confusion_matrix": [
+      [
+        258,
+        88
+      ],
+      [
+        82,
+        287
+      ]
+    ]
+  }
+}

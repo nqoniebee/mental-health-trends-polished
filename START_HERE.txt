@@ -1,0 +1,15 @@
+EARLY DETECTION OF MENTAL HEALTH TRENDS
+
+1. Extract this entire folder.
+2. Install Python 3.11 or 3.12 with the Windows Python launcher.
+3. Double-click SETUP_WINDOWS.bat once while online.
+4. When setup finishes, double-click RUN_WINDOWS.bat.
+5. On future visits, use only RUN_WINDOWS.bat.
+
+The trained stress classifier is included. Setup downloads the larger
+pretrained language models required on your own computer.
+
+Use README.md for instructions and REPORT_ALIGNMENT.md to understand
+how this implementation relates to the submitted report.
+
+The original assets/background.png is already applied to the interface.

@@ -1,0 +1,15 @@
+# Python 3.11 or 3.12. Full report pipeline; CPU execution is supported.
+streamlit>=1.49,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn==1.8.0
+joblib>=1.4,<2
+plotly>=5.20,<7
+pyarrow>=15,<24
+transformers>=4.40,<5
+torch>=2.2,<3
+sentence-transformers>=2.7,<6
+bertopic>=0.16,<1
+keybert>=0.8,<1
+wordcloud>=1.9,<2
+langdetect>=1.0.9,<2
